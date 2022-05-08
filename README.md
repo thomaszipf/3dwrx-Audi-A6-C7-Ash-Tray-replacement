@@ -7,14 +7,6 @@ This is a replacement insert for Audi A6 C7 using regular ash tray. As I found t
   <img 
     width="800"
     height="800"
-    src="https://github.com/thomaszipf/3dwrx-gemba-cap/blob/main/images/Version6-Render4-thingiverse_bg_black_tt-ind.png"
-  >
-</p>
-
-<p align="center">
-  <img 
-    width="800"
-    height="800"
     src="https://github.com/thomaszipf/3dwrx-Audi-A6-C7-Ash-Tray-replacement/blob/main/images/Audi-A6-C7-Ash-Tray-Replacement.PNG"
   >
 </p>
