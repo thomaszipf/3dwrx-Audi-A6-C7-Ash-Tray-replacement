@@ -2,6 +2,15 @@
 Things to make
 This is a replacement insert for Audi A6 C7 using regular ash tray. As I found there is no use for the original one at least for me, so I decided to make my own and publish for the community.
 
+
+<p align="center">
+  <img 
+    width="800"
+    height="800"
+    src="https://github.com/thomaszipf/3dwrx-gemba-cap/blob/main/images/Version6-Render4-thingiverse_bg_black_tt-ind.png"
+  >
+</p>
+
 <p align="center">
   <img 
     width="800"
