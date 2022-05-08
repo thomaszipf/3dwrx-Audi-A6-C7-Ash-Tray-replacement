@@ -7,7 +7,7 @@ This is a replacement insert for Audi A6 C7 using regular ash tray. As I found t
   <img 
     width="800"
     height="800"
-    src="https://github.com/thomaszipf/3dwrx-Audi-A6-C7-Ash-Tray-replacement/blob/main/images/Audi-A6-C7-Ash-Tray-Replacement.PNG"
+    src="https://github.com/thomaszipf/3dwrx-Audi-A6-C7-Ash-Tray-replacement/blob/main/Images/Audi-A6-C7-Ash-Tray-Replacement.PNG"
   >
 </p>
 
