@@ -1,4 +1,4 @@
-# 3dwrx-Audi-A6-C7-Ash-Tray-replacement
+# 3dwrx-audi-a6-c7-ash-tray-replacement
 Things to make
 This is a replacement insert for Audi A6 C7 using regular ash tray. As I found there is no use for the original one at least for me, so I decided to make my own and publish for the community.
 
